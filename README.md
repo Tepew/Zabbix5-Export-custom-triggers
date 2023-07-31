@@ -21,7 +21,7 @@ triggers_list
 In file
 export_custom_triggers_list.sh  
 storage your manualy added triggers in format  
-<hostid>:<trigger>  
+hostid:trigger  
 example in repo  
 
 For check when script crash you can export template
