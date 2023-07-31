@@ -1,7 +1,7 @@
 # Zabbix5-Export-custom-triggers
 
 Tempplate tested and work in zabbix 5.0.X.  
-Script for Oracle databse, but you can recreate for other DB 
+Script for Oracle database, but you can recreate for other DB 
 For use script you need import two files (file in folder script)
 export_custom_triggers.sh    
 export_custom_triggers_list.sh
